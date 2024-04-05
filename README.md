@@ -13,6 +13,7 @@
 ✅ _HTML_
 ✅ _CSS_
 ✅ _JavaScript_
+✅ _React_
 
 #### and all the ins and outs of these disciplines including...
 
