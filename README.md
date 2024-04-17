@@ -2,8 +2,8 @@
 
 ## About me
 
-- 💻 I am a student at **CodeSpace Academy**, completing my studies in software developement.
-- 🎓 I will finish this course in April 2024 and am SO excited to be a software guru! 🚀
+- 💻 I am a graduate at **CodeSpace Academy**, having completed my studies in Software Developement.
+- 🎓 I finished this course in April 2024 and am SO excited to be a software guru! 🚀
 - 💥 I am a 28 year old Capricorn who is super **hard working, determined and inspired**.
 - 🐶 I love food, animals, art and of course, **coding**.
 - 👀 I am open to new opportunities in the **software field** and always give 110% to my learning.
